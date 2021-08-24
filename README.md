@@ -8,6 +8,8 @@
 
 <h2 align="center">Link to <a href="https://codepen.io/bohemiolobo/full/qBmWBdR" target="_blank">Demo</a></h2>
 
+<a href="https://codepen.io/bohemiolobo/full/ExmxBpP" target="_blank"><img src="https://i.postimg.cc/QxW3fTZ9/2.png" alt="Website preview"></a>
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
